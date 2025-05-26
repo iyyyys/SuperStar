@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 13297920717 -p www123321 -l 236393343#课程id，默认为心理课的
+        run: python main.py -u 13297920717 -p www123321 -l 236393343
